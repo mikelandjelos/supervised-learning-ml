@@ -1,0 +1,16 @@
+.venv/
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+data/*
+!data/README.md
+*.pkl
+*.joblib
+*.pt
+*.pth
+*.ckpt
+*.h5
+*.keras
